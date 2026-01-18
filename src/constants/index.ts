@@ -41,6 +41,8 @@ export const VIDEO_LINKS = {
     "https://ldveftfkct.ufs.sh/f/3EIdGoV8CLDtLvPCNxeimM21Y5T9guECXVP7LdQZHOGeozSJ",
   feature4:
     "https://v1.pinimg.com/videos/mc/720p/35/4a/5c/354a5c291d6413a2fd09ea6643fdd411.mp4",
+  feature5:
+    "https://v1.pinimg.com/videos/mc/720p/cc/82/c1/cc82c1cb3bd413a2bf5dec3690322e04.mp4",
 
   hero1:
     "https://ldveftfkct.ufs.sh/f/3EIdGoV8CLDtE8KiDGzIqgfBiLQj60GXxYMpz7WAPvkDsenK",
